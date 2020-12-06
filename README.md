@@ -25,3 +25,21 @@ This sample uses the Gradle build system. To build this project, use the
 
 tr
 
+
+This is the first test branch1 in the dev envirmonent/ test1.
+Adding a feature in test1.
+
+This is the first test branch2 in the dev envirmonent/ test2.
+Now I am adding a new feature1 in the app in Test 2.
+Now I am adding a new feature2 in the app in Test 2.
+
+
+
+
+
+
+
+=======
+Testing a third branch update
+>>>>>>> test3
+>>>>>>> d6207adb3e1c6e8141c9209d32b354ff28f0226b
