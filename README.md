@@ -24,6 +24,7 @@ This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
 This is the first test branch2 in the dev envirmonent/ test2.
+Now I am adding a new feature1 in the app in Test 2.
 
 
 
