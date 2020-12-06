@@ -23,7 +23,6 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-
 This is the first test branch1 in the dev envirmonent/ test1.
 Adding a feature in test1.
 
@@ -37,3 +36,6 @@ Now I am adding a new feature2 in the app in Test 2.
 
 
 
+=======
+Testing a third branch update
+>>>>>>> test3
