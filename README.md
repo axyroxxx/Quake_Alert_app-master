@@ -36,3 +36,7 @@ Now I am adding a new feature2 in the app in Test 2.
 
 
 
+Add a new commit test
+Add a new 2 commit test
+Add a new 3 commit test
+Add a new 4 commit test
