@@ -36,8 +36,15 @@ Now I am adding a new feature2 in the app in Test 2.
 
 
 
+<<<<<<< HEAD
 Add a new commit test
 Add a new 2 commit test
 Add a new 3 commit test
 Add a new 4 commit test
 Add a new 5 commit test
+=======
+
+
+
+
+>>>>>>> ffa056dbda13166feedef348675300f6b7af23c6
