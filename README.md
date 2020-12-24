@@ -36,11 +36,3 @@ Now I am adding a new feature2 in the app in Test 2.
 
 
 
-
-
-
-
-=======
-Testing a third branch update
->>>>>>> test3
->>>>>>> d6207adb3e1c6e8141c9209d32b354ff28f0226b
