@@ -42,3 +42,4 @@ Add a new 3 commit test
 Add a new 4 commit test
 Add a new 5 commit test
 Add a new 6 commit test
+Add a new 7 commit test
