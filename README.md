@@ -40,3 +40,4 @@ Add a new commit test
 Add a new 2 commit test
 Add a new 3 commit test
 Add a new 4 commit test
+Add a new 5 commit test
